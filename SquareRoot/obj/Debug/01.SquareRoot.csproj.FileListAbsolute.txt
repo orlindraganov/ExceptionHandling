@@ -1,0 +1,6 @@
+D:\Orlinovski Tapotii\ExceptionHandling\SquareRoot\obj\Debug\01.SquareRoot.csprojResolveAssemblyReference.cache
+D:\Orlinovski Tapotii\ExceptionHandling\SquareRoot\bin\Debug\SquareRoot.exe.config
+D:\Orlinovski Tapotii\ExceptionHandling\SquareRoot\bin\Debug\SquareRoot.exe
+D:\Orlinovski Tapotii\ExceptionHandling\SquareRoot\bin\Debug\SquareRoot.pdb
+D:\Orlinovski Tapotii\ExceptionHandling\SquareRoot\obj\Debug\SquareRoot.exe
+D:\Orlinovski Tapotii\ExceptionHandling\SquareRoot\obj\Debug\SquareRoot.pdb

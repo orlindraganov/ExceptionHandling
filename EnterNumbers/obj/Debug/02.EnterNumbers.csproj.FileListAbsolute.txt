@@ -1,0 +1,6 @@
+D:\Orlinovski Tapotii\ExceptionHandling\EnterNumbers\bin\Debug\EnterNumbers.exe.config
+D:\Orlinovski Tapotii\ExceptionHandling\EnterNumbers\bin\Debug\EnterNumbers.exe
+D:\Orlinovski Tapotii\ExceptionHandling\EnterNumbers\bin\Debug\EnterNumbers.pdb
+D:\Orlinovski Tapotii\ExceptionHandling\EnterNumbers\obj\Debug\02.EnterNumbers.csprojResolveAssemblyReference.cache
+D:\Orlinovski Tapotii\ExceptionHandling\EnterNumbers\obj\Debug\EnterNumbers.exe
+D:\Orlinovski Tapotii\ExceptionHandling\EnterNumbers\obj\Debug\EnterNumbers.pdb
